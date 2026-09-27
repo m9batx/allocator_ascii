@@ -1,3 +1,5 @@
+###command-line utility used to search for specific text patterns within files
+
 the aim of this project is to locate a specific word inside all files located in a given directory and its subdirectories. If the word is found in a file, it prints the file’s path.
 
 You can also use:
